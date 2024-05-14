@@ -19,4 +19,6 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,js,angular,html,css,bootstrap,nodejs,express,mongodb,mysql,postgres,postman,vercel,cpp,c,git,github,linux,aws,figma,py&theme=dark)](https://skillicons.dev)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jeewan-Sharma)](https://git.io/streak-stats)
+
 ![JS](https://github.com/Jeewan-Sharma/Jeewan-Sharma/assets/50805104/c92ecf09-d6a0-48c6-9a32-f1ed38392119)
