@@ -8,8 +8,10 @@
 - 🚲 How to reach me **sjeewan53@gmail.com**
 
 <p align="center">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/jeewan-sharma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="JeewanSharma" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/jeewan-sharma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="JeewanSharma" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jeewansharma404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="JeewanSharma" height="30" width="40" /></a>
+<a href="https://medium.com/@sjeewan404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sjeewan404" height="30" width="40" /></a>
 </p>
 
 ![jeewansharma com np](https://github.com/Jeewan-Sharma/Jeewan-Sharma/assets/50805104/8b15ef73-3ead-45ed-ac27-cf077c8f0592)
