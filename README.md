@@ -18,9 +18,8 @@
   
 [![My Skills](https://skillicons.dev/icons?i=ts,js,angular,html,css,bootstrap,nodejs,express,mongodb,mysql,postgres,postman,vercel,cpp,c,git,github,linux,aws,figma,py&theme=dark)](https://skillicons.dev)
 
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Jeewan-Sharma}&theme={default}
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jeewan-Sharma)](https://git.io/streak-stats)
-
-[![Jeewans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeewan-Sharma)](https://github.com/Jeewan-Sharma/github-readme-stats)
 
 <!--- ![JS](https://github.com/Jeewan-Sharma/Jeewan-Sharma/assets/50805104/c92ecf09-d6a0-48c6-9a32-f1ed38392119) --->
