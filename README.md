@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🙏, I'm Jeewan Sharma</h1>
+<h1 align="center">🙏 Namaste, I'm Jeewan Sharma</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 🔎 Find more about me on [jeewansharma.com.np](https://jeewansharma.com.np/)
@@ -23,4 +23,4 @@
 
 [![Jeewans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeewan-Sharma)](https://github.com/Jeewan-Sharma/github-readme-stats)
 
-![JS](https://github.com/Jeewan-Sharma/Jeewan-Sharma/assets/50805104/c92ecf09-d6a0-48c6-9a32-f1ed38392119)
+<!--- ![JS](https://github.com/Jeewan-Sharma/Jeewan-Sharma/assets/50805104/c92ecf09-d6a0-48c6-9a32-f1ed38392119) --->
