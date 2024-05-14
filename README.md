@@ -22,6 +22,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeewan-Sharma&theme=default)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jeewan-Sharma)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeewan-Sharma&theme=default)
 
 <!--- ![JS](https://github.com/Jeewan-Sharma/Jeewan-Sharma/assets/50805104/c92ecf09-d6a0-48c6-9a32-f1ed38392119) --->
