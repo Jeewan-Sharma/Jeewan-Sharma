@@ -1,7 +1,7 @@
 <h1 align="center">Namaste 🙏, I'm Jeewan Sharma</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 📍 Find more about me on [jeewansharma.com.np](https://jeewansharma.com.np/)
+- 🔎 Find more about me on [jeewansharma.com.np](https://jeewansharma.com.np/)
 
 - 💬 Ask me about **TypeScript, Angular, NodeJs**
 
@@ -16,6 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=ts,js,angular,css,bootstrap,nodejs,express,cpp,c,git,github,bitbucket,aws,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,angular,html,css,bootstrap,nodejs,express,mongodb,mysql,postgres,postman,vercel,cpp,c,git,github,linux,aws,figma,py&theme=dark)](https://skillicons.dev)
+
 
 ![JS](https://github.com/Jeewan-Sharma/Jeewan-Sharma/assets/50805104/c92ecf09-d6a0-48c6-9a32-f1ed38392119)
