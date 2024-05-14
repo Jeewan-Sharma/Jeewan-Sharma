@@ -16,7 +16,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+  
 [![My Skills](https://skillicons.dev/icons?i=ts,js,angular,css,bootstrap,nodejs,express,cpp,c,git,github,bitbucket,aws,figma&theme=light)](https://skillicons.dev)
 </p>
 
-![jeewansharma com np](https://github.com/Jeewan-Sharma/Jeewan-Sharma/assets/50805104/8b15ef73-3ead-45ed-ac27-cf077c8f0592)
+![JS](https://github.com/Jeewan-Sharma/Jeewan-Sharma/assets/50805104/c92ecf09-d6a0-48c6-9a32-f1ed38392119)
