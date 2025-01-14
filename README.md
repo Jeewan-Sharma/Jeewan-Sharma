@@ -23,8 +23,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeewan-Sharma&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeewan-Sharma&theme=default)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jeewan-Sharma)](https://git.io/streak-stats)
-
 </div>
 
 
